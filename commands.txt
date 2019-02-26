@@ -13,7 +13,7 @@ after clone:
   					  git config --global user.name "Your Name"
 
 
-new commands
+
 
 
 				
