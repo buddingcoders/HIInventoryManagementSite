@@ -1,0 +1,10 @@
+Clear screen: 						cntrl + L
+Change drive: 						/drive name
+tell git to bigin tracking everythin inside a folder (creating a new repo): git init
+to see what changes are made in working directory: 	git status
+add the files to staging area: 				git add <file name>
+Commit the files to local repo: 			git commit -m 'my first commit'
+to get back the commited files:			 	git checkout -- .
+to set github repo cloned				git remote set-url origin https://github.com/buddingcoders/HIInventoryManagementSite.git
+to add github repo new					git remote add origin https://github.com/buddingcoders/HIInventoryManagementSite.git
+				
